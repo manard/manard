@@ -4,10 +4,9 @@
 <h3 align="center">Computer Science Student At BZU</h3>
 
 
-
-
-![cbf974eb-e97e-4fa1-b073-55cc76e0b368](https://github.com/user-attachments/assets/e7d058fc-2c27-432e-959e-809e32fa435b)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e7d058fc-2c27-432e-959e-809e32fa435b" alt="A description of the GIF" />
+</p>
 
 
 - 🌱 I’m currently learning **UI UX , Flutter**
