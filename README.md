@@ -1,12 +1,19 @@
 <h1 align="center">Hi 👋, I'm Manar Dawod</h1>
 
 
-<h3 align="center">Computer Science Student At BZU</h3>
+<h3 align="center">Software developer</h3>
+
+<p>Software developer specialized in mobile application development.
+  I have designed and developed various applications that meet client needs and enhance user experience.
+  I am always enthusiastic about enhancing my skills and am highly motivated to continuously improve.
+  Additionally, I possess strong abilities in self-learning and research, along with a collaborative work ethic, having contributed to several successful team projects.</p>
 
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e7d058fc-2c27-432e-959e-809e32fa435b" alt="A description of the GIF" />
 </p>
+
+
 
 
 - 🌱 I’m currently learning **UI UX , Flutter**
