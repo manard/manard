@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **UI UX , Flutter**
 
-- 💬 Ask me about **java , php**
+- 💬 Ask me about **java , php , dart**
 
 - 📫 How to reach me **manardf3@gmail.com**
 
