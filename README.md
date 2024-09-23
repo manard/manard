@@ -4,7 +4,6 @@
 <h3 align="center">Software developer</h3>
 
 <p>Software developer specialized in mobile application development.
-  I have designed and developed various applications that meet client needs and enhance user experience.
   I am always enthusiastic about enhancing my skills and am highly motivated to continuously improve.
   Additionally, I possess strong abilities in self-learning and research, along with a collaborative work ethic, having contributed to several successful team projects.</p>
 
