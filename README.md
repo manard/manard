@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manar Dawod</h1>
 
 
-<h3 align="center">Software developer</h3>
-
 <p>A Frontend Developer specializing in designing and developing seamless user interfaces to enhance user experience. I have worked with modern technologies such as HTML, CSS, JavaScript, TypeScript, and React.ts. I am always striving to improve my skills and stay updated with the latest trends in web development to achieve a balance between functional beauty and efficiency in projects.</p>
 
 
